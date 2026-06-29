@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2l0014/WYG/v1/juan/33
+seq: 33
+front:
+  text: 欽定四庫全書欽定國子監志卷三十四
+  hash: sha256:5a1634cf471e09fd2261ce2bc9294d1b8b499ebf37662767c535d87767b14767
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2l0014_WYG_033-1a, image: WYG0600/WYG0600-0356a.png}
+body:
+  text: 官師題名明欽定國子監志卷三十四
+  hash: sha256:110e60d84432b7db486290521d57bef4f47e3eb94eda72c8aa80c16fd265cc60
+metadata:
+  title: 欽定國子監志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:48:25.879431'
+  juan_title: 卷三十四
+  source:
+    repository: kanripo
+    path: KR2l0014/KR2l0014_033.txt
+hash: sha256:1d1adc5980b637a4615c7c22707a4a36fcff3ebb5f5e44544d666bc7fb2fcaaf

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2l0014/WYG/v1/juan/25
+seq: 25
+front:
+  text: 欽定四庫全書欽定國子監志卷二十五
+  hash: sha256:148a2fabc8d438bf94f4fff0858342d5e7426d96689dc780799935e0950a94bc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2l0014_WYG_025-1a, image: WYG0600/WYG0600-0252a.png}
+body:
+  text: 樂六文謹案舞用以象文徳自劉宋元嘉以來代有損廟佾益或六佾軒懸以擬上公或八佾宫懸以等王者其因革之故具詳樂制聖祖仁皇帝欽頒樂章定用六佾而舞節率沿舊制自乾隆六年皇上更定釋奠樂章凡迎神徹饌送神皆有歌無舞惟三獻有舞于是綴兆行列燦然大備兹取三獻樂章合舞之節列表如右舞節附明大成樂譜舞節表欽定國子監志卷二十五
+  hash: sha256:6d7d7b5b96b0c2e4022980f1e0acd24a9216740fad8a63f19955201284e932b2
+metadata:
+  title: 欽定國子監志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:48:25.879431'
+  juan_title: 卷二十五
+  source:
+    repository: kanripo
+    path: KR2l0014/KR2l0014_025.txt
+hash: sha256:c01e258755682ab1cc8a399d3cb29cd11c97f6216afa42d53de4ac23783fb60b

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2l0014/krp/v1/juan/23
+seq: 23
+front:
+  text: 欽定四庫全書欽定國子監志卷二十三
+  hash: sha256:11e19979b2a58f118b37ad531cd74cf5c7e1edcbcf7ac39277aafe06d185cfd1
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2l0014_WYG_023-1a, image: WYG0600/WYG0600-0224a.png}
+body:
+  text: 樂四律吕表旋宫聲律字調表春夾鐘清均秋南吕清均諸器配合聲律字調表春夾鐘清均謹案樂之有律吕所以為五聲八音七始之紀綱也我聖祖仁皇帝審聲知音審音知樂秋釋奠御製律吕正義一書器數精詳春皇文廟用六平之章玉振金聲洋洋盈耳上身律聲度復御製律吕正義續編詔定先師廟樂春以夾鐘為宫秋以南吕為宫始終條理集厥大成兹謹就夾鍾南吕二清均推旋宫聲律字調及諸器配合聲律字調各為之表以備律吕庶協律太常觀樂太學者得舉其要云律吕表附明大成樂譜表附元譜四十字謹案釋奠樂制自唐以前不可得詳宋有大晟樂金元稍因其製惜樂譜失𫝊明大成譜乃備載律吕聲調未載堉樂書以大成樂章新舊互異乃節取明大成譜興元譜校僅得四十字兹就明大成譜推為表而以元譜四十字分注其下以備兩朝恭考焉欽定國子監志卷二十三
+  hash: sha256:1d29b6ff7f476b25cd0527a30c8896ef9cd3f335c34591c4beb89b12597d9baf
+metadata:
+  title: 欽定國子監志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:48:25.879431'
+  juan_title: 卷二十三
+  source:
+    repository: kanripo
+    path: KR2l0014/KR2l0014_023.txt
+hash: sha256:03d5919df618e98282dfc38d0d40b0a9e707f33ce1b31c68869d083c7df37b65
