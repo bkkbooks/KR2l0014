@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR2l0014/WYG/v1/juan/32
 seq: 32
-front:
-  text: 欽定四庫全書欽定國子監志卷三十二
-  hash: sha256:df980d16294d1094c1aa00f35e55621c35258ddc2a7e34b6dbf1cd727c1b6d29
+body:
+  text: 欽定四庫全書欽定國子監志卷三十二官師五題名欽定國子監志卷三十二
+  hash: sha256:19f1bd7cd4a08665ebc366b0ee462a99e4578605c6f98ef79cb5f2389b65e786
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2l0014_WYG_032-1a, image: WYG0600/WYG0600-0328c.png}
-body:
-  text: 官師五題名欽定國子監志卷三十二
-  hash: sha256:22bf98dc3dac500df206d6efb71f5d7ae03a7d1b7ffd6b67bb527162fabc27ef
 metadata:
   title: 欽定國子監志
   edition:
@@ -18,4 +15,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2l0014/KR2l0014_032.txt
-hash: sha256:bf2db95eb8e0eb2c942c0c513f4e9ffb495e99d728609eb3a369b4702a302d15
+hash: sha256:8ec738927265a5f9cec737d983937eaa3c66a426a2df7f0862c3ae1058026266
